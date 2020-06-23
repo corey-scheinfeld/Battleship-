@@ -1,2 +1,2 @@
-# Battleship
-Battleship Game created using Java 
+# _Games
+Desktop terminal games created using Java
